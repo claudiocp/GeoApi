@@ -44,11 +44,12 @@ Para iniciar a API:
 dotnet run
 ```
 
-Por padrão, a API estará disponível em:
-- https://localhost:5001
+A API estará disponível em:
 - http://localhost:5000
+- https://localhost:5001
 
 A documentação da API (Swagger) estará disponível em:
+- http://localhost:5000/swagger
 - https://localhost:5001/swagger
 
 ## Endpoints da API
